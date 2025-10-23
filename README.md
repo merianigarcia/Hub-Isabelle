@@ -16,18 +16,6 @@ O design traz um toque moderno e feminino, destacando as cores e a personalidade
 
 - **HTML5** → Estrutura do site  
 - **CSS3** → Estilo, cores e responsividade  
-- (Opcional) **Google Fonts** → Tipografia personalizada  
-- (Opcional) **Ícones** → Font Awesome ou similares  
-
----
-
-## 💻 Visualização
-
-Você pode visualizar o projeto hospedado no GitHub Pages clicando no link abaixo 👇  
-
-🔗 [Acessar o Linktree](https://seuusuario.github.io/merianigarcia)
-
----
-
-## 📁 Estrutura do Projeto
+- **Google Fonts** → Tipografia personalizada  
+- **Ícones** → Font Awesome ou similares  
 
