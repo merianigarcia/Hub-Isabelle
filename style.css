@@ -8,7 +8,7 @@
  
 :root {
     ---preto: black;
-    --violeta: #dab3f5;
+    --roxo: #210136;
     --branco-gelo: #D9D9D9;
 }
 
@@ -20,7 +20,7 @@
 
 body {
     font-family: "Open Sans", sans-serif;
-    background-color: var(--violeta);
+    background-color: var(--roxo);
 }
 
 header img {
@@ -45,13 +45,13 @@ main h1 {
     /* para diminuir o tamanho da fonte */
     font-weight: 750;
     /* para deixar em negrito */
-    color: var(--Preto);
+    color: white;
 }
 
 main p {
     max-width: 210px;
     margin-bottom: 15px;
-    color: var(--Preto);
+    color: white;
     font-weight: 750;
     margin-left: 25px;
 }
