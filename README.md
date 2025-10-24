@@ -1,6 +1,6 @@
 # 🌸 Linktree - Isabelle
 
-Bem-vinda(o) ao repositório do **Linktree personalizado** da [Nome da Mulher da Isabelle]! 💖  
+Bem-vinda(o) ao repositório do **Linktree personalizado** da Isabelle! 💖  
 Este projeto foi feito com **HTML e CSS**, com o objetivo de criar uma página simples, elegante e funcional para reunir todos os links importantes em um só lugar.
 
 ---
